@@ -17,8 +17,4 @@
 			</manifest>
 		</jar>
 	</target>
-	
-	<target name="run">
-	        <java jar="build/jar/myproj.jar" fork="true"/>
-	    </target>
 </project>
